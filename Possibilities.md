@@ -23,3 +23,7 @@
         Doubt: how complex the architecture would be (have to check more)
 2. Multisample Flow Matching: Straightening Flows with Minibatch Couplings paper:
     a. Similar idea where shown that for certain joint distributions (constructed via a doubly-stochastic matrix), the straightness of the flow is close to zero.
+
+### Likelihood Estimation
+1. Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs
+2. Flow Matching for Scalable Simulation-Based Inference
